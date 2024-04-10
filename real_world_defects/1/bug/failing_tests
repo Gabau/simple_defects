@@ -1,0 +1,6 @@
+--- nestedmonitor.NestedMonitorTest::test
+--- org.codehaus.groovy.runtime.metaclass.TestMemoryAwareMap::testScriptCompilation
+--- pool1.impl.TestGenericObjectPool::testEvictAddObjectsImproved
+--- pool2.impl.TestGenericObjectPool::testEvictAddObjectsImproved
+--- pool3.impl.TestGenericKeyedObjectPool::testBlockedKeyDoesNotBlockPoolImproved
+--- pool6.impl.TestGenericObjectPool::testConcurrentBorrowAndEvict

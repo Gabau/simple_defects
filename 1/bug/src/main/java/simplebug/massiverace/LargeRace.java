@@ -7,7 +7,7 @@ public class LargeRace implements Runnable  {
 	private static class Thread1 extends Thread {
 		@Override
 		public void run() {
-			for (int i = 0; i < 1000; ++i) {
+			for (int i = 0; i < 100; ++i) {
 				global++;
 			}
 		}

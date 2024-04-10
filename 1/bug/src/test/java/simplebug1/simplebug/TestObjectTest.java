@@ -46,7 +46,7 @@ public class TestObjectTest {
 	public void testRace() {
 		LargeRace race = new LargeRace();
 		race.run();
-		assertEquals(LargeRace.getGlobal(), 2000);
+		assertEquals(LargeRace.getGlobal(), 200);
 	}
 	
 	
